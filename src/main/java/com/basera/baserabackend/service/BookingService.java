@@ -1,7 +1,7 @@
 package com.basera.baserabackend.service;
 
 import com.basera.baserabackend.dtos.BookingDTO;
-import org.apache.catalina.connector.Response;
+import com.basera.baserabackend.dtos.Response;
 
 public interface BookingService {
 

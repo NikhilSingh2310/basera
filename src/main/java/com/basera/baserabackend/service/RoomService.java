@@ -1,8 +1,8 @@
 package com.basera.baserabackend.service;
 
+import com.basera.baserabackend.dtos.Response;
 import com.basera.baserabackend.dtos.RoomDTO;
 import com.basera.baserabackend.enums.RoomType;
-import org.apache.catalina.connector.Response;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.time.LocalDate;
