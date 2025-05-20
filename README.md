@@ -18,7 +18,7 @@
 ## 📦 Project Structure
 
 ```
-com.basera
+com.basera.baserabackend
 ├── config          # Configuration (ModelMapper)
 ├── controllers     # REST endpoints (Auth, Room, Booking, Payment)
 ├── dtos            # Request/Response DTOs
